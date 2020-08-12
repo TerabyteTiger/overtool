@@ -9,8 +9,7 @@
       This site is inspired by anyone that has ever commented something like
     </p>
     <blockquote>
-      The amount of tooling people think is necessary to build a simple website
-      infuriates me
+      The amount of tooling people use to build a simple website infuriates me
     </blockquote>
     <p>or</p>
     <blockquote>
