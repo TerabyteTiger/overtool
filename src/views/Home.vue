@@ -16,6 +16,31 @@
     <blockquote>
       You cannot learn React without knowing JavaScript first
     </blockquote>
+
+    <h2>Built with:</h2>
+    <ul>
+      <li>
+        <a href="https://vuex.vuejs.org/">
+          Vuex
+        </a>
+      </li>
+      <li>
+        <a href="https://router.vuejs.org/">
+          Vue Router
+        </a>
+      </li>
+      <li>
+        <a href="https://vuejs.org/">
+          Vue
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/wesbos/waait"></a>
+        Waait
+      </li>
+      <li>Love 💕</li>
+      <li>& Hosted on <a href="https://www.netlify.com/">Netlify</a></li>
+    </ul>
   </div>
 </template>
 
