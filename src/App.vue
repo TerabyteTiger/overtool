@@ -30,4 +30,10 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+blockquote {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #5a5475;
+}
 </style>

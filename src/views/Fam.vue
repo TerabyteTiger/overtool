@@ -10,9 +10,8 @@
       not. The important thing is if you accomplished something. Maybe you
       learned something new. Maybe your new tool saves you 5 minutes once some
       time in the future. Or maybe you just enjoyed yourself for a bit.
-
-      <strong>That's a win</strong>
     </p>
+    <h2>That's a win!!</h2>
     <p>
       And small wins build to big wins.
     </p>
@@ -20,11 +19,15 @@
       I look forward to seeing what you accomplish 💕
     </p>
     <p>
-      And just to spite the haters, here's a message loaded from Vuex Store:
+      And just to spite the haters, here's a message loaded from Vuex Store
+      (which some would call "overkill"):
     </p>
     <blockquote>
       {{ this.$store.state.msgForTheFam }}
     </blockquote>
+    <p>
+      Maybe someday we can throw a super chill pizza party or something 🍕🍕
+    </p>
   </div>
 </template>
 <script>
@@ -33,10 +36,4 @@ export default {
 };
 </script>
 
-<style>
-blockquote {
-  font-size: 1.2rem;
-  font-weight: bold;
-  color: #5a5475;
-}
-</style>
+<style></style>

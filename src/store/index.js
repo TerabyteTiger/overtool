@@ -7,7 +7,7 @@ export default new Vuex.Store({
   state: {
     msgForTheH8rs: "this site was built just for you, friend 🖖",
     msgForTheFam:
-      "Hey, you belong in tech. Build using whatever you want. It's cool regardless. 💕",
+      "You belong in tech. Build using whatever you want. It's cool regardless. 💕",
   },
   mutations: {},
   actions: {},

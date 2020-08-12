@@ -1,26 +1,27 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <h1>Welcome to OverTool</h1>
+    <p>A website that easily could have been built with plain HTML/CSS</p>
+    <p>but instead I used Vue 💚</p>
+    <hr style="width: 25%;" />
+
     <p>
-      The overuse and overpromotion of React (sledgehammer to crack a nut in
-      most cases)
+      This site is inspired by anyone that has ever commented something like
     </p>
-    <p>
-      The ridiculous amount of tooling people seem to think is necessary to
-      build a simple website
-    </p>
+    <blockquote>
+      The amount of tooling people think is necessary to build a simple website
+      infuriates me
+    </blockquote>
+    <p>or</p>
+    <blockquote>
+      You cannot learn React without knowing JavaScript first
+    </blockquote>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
 export default {
   name: "Home",
-  components: {
-    HelloWorld,
-  },
+  components: {},
 };
 </script>
