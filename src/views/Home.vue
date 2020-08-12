@@ -18,29 +18,21 @@
     </blockquote>
 
     <h2>Built with:</h2>
-    <ul>
-      <li>
-        <a href="https://vuex.vuejs.org/">
-          Vuex
-        </a>
-      </li>
-      <li>
-        <a href="https://router.vuejs.org/">
-          Vue Router
-        </a>
-      </li>
-      <li>
-        <a href="https://vuejs.org/">
-          Vue
-        </a>
-      </li>
-      <li>
-        <a href="https://github.com/wesbos/waait"></a>
-        Waait
-      </li>
-      <li>Love 💕</li>
-      <li>& Hosted on <a href="https://www.netlify.com/">Netlify</a></li>
-    </ul>
+    <p>
+      <a href="https://vuex.vuejs.org/">
+        Vuex
+      </a>
+      |
+      <a href="https://router.vuejs.org/">
+        Vue Router
+      </a>
+      |
+      <a href="https://vuejs.org/">
+        Vue
+      </a>
+      | <a href="https://github.com/wesbos/waait">Waait</a> | Love 💕 | & Hosted
+      on <a href="https://www.netlify.com/">Netlify</a>
+    </p>
   </div>
 </template>
 
