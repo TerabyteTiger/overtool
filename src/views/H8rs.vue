@@ -29,9 +29,9 @@
     </div>
     <div v-else>
       <h2>
-        Please Wait ...
+        Please Wait ... ⌚
       </h2>
-      <p>The page is loading</p>
+      <p>👉 The page is loading 👈</p>
     </div>
   </main>
 </template>
@@ -47,7 +47,7 @@ export default {
     };
   },
   async mounted() {
-    await wait(2000);
+    await wait(2500);
     this.waitFlag = true;
   },
 };

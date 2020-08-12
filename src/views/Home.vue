@@ -32,6 +32,7 @@
       | <a href="https://github.com/wesbos/waait">Waait</a> | Love 💕 | & Hosted
       on <a href="https://www.netlify.com/">Netlify</a>
     </p>
+    <p class="smol">It's also a pwa for your enjoyment 🤫</p>
   </div>
 </template>
 
@@ -41,3 +42,9 @@ export default {
   components: {},
 };
 </script>
+
+<style>
+.smol {
+  font-size: 0.8rem;
+}
+</style>

@@ -18,6 +18,21 @@
   color: #2c3e50;
 }
 
+p {
+  font-size: 1.5rem;
+  max-width: 750px;
+  margin: 1rem auto;
+  line-height: 2rem;
+}
+
+h1 {
+  font-size: 6em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
 #nav {
   padding: 30px;
 }
